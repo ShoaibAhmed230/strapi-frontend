@@ -45,13 +45,13 @@ export default function Home() {
 
               return (
           <div key={block.id} className="bg-gray-800 rounded-lg p-4 text-gray-400 mb-6">
-            [Media block here – implement if needed]
+            [Media block here - implement if needed]
           </div>
         )
       case 'shared.slider':
         return (
           <div key={block.id} className="bg-gray-800 rounded-lg p-4 text-gray-400 mb-6">
-            [Slider block here – implement if needed]
+            [Slider block here - implement if needed]
           </div>
         )
       default:
