@@ -5,7 +5,7 @@ export default function About() {
 
       <p className="text-lg text-gray-500 leading-relaxed mb-6">
         Welcome to <span className="font-semibold text-gray-300">My Article Site</span> — your go-to platform for insightful, thought-provoking, and informative articles on a wide range of topics.
-        Whether you're here to explore the wonders of science, discover tips for personal growth, or dive into technology trends, we’ve got something to feed your curiosity.
+        Whether you're here to explore the wonders of science, discover tips for personal growth, or dive into technology trends, we've got something to feed your curiosity.
       </p>
 
       <p className="text-lg text-gray-500 leading-relaxed mb-6">
@@ -13,7 +13,7 @@ export default function About() {
       </p>
 
       <p className="text-lg text-gray-500 leading-relaxed">
-        We appreciate you being here, and we hope our content inspires you to think, grow, and explore more each day. Don’t forget to check out our latest articles on the <a href="/blog" className="text-blue-600 hover:underline">Blog</a> page.
+        We appreciate you being here, and we hope our content inspires you to think, grow, and explore more each day. Don't forget to check out our latest articles on the <a href="/blog" className="text-blue-600 hover:underline">Blog</a> page.
       </p>
     </div>
   )
